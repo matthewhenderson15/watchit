@@ -1,1 +1,1 @@
-# watchit
+A custom implementation of nodemon.
